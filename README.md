@@ -1,5 +1,5 @@
 # projeto-2--3-trimestre
-Curso: Análise de Dados:criando narrativas com gráficos
+Curso: Análise de Dados: criando narrativas com gráficos
 
 Abaixo estão as imagens do projeto final:
 
